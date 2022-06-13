@@ -47,5 +47,3 @@ runs:
         - ${{ inputs.encode_password }}
         - "--email"
         - ${{ inputs.email }}
-        - "--scope"
-        - ${{ inputs.scope }}
